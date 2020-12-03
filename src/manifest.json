@@ -10,7 +10,7 @@
 
    "background": {
       "scripts": ["popup.js"],
-      "persistent": false,
+      "persistent": false
     },
 
    "page_action": {
