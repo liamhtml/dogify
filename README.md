@@ -9,6 +9,6 @@ Firefox Addons: [#](#)
 #### Microsoft Edge 
 Chrome Web Store (Supported by Edge!): [#](#)
 ## Brave
-Chrome Web Store (Supported by Brave): [#](#)
+Chrome Web Store (Supported by Brave!): [#](#)
 ### license
 GNU General Public License v3.0
