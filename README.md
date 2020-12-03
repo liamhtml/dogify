@@ -8,9 +8,9 @@ Chrome Web Store: [#](#)
 Firefox Addons: [#](#)
 #### Microsoft Edge 
 Chrome Web Store (Supported by Edge!): [#](#)
-## Brave
+#### Brave
 Chrome Web Store (Supported by Brave!): [#](#)
-## Opera
+#### Opera
 Chrome Webstore (Supported by Opera, I bet you're starting to see a pattern here!): [#](#)
 ### license
 GNU General Public License v3.0
