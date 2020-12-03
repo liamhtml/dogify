@@ -1,4 +1,14 @@
 # dogify
-Dogify is a Google Chrome extension which checks all of your sites for instances of the filthy word "cat" and replaces them with "dog". Help dogify the web!
-# license
+Dogify is a browser extension which checks all of your sites for instances of the filthy word "cat" and replaces them with "dog". Help dogify the web!
+### installation and use
+Install for your browser at it's respective store
+#### Google Chrome
+Chrome Web Store: [#](#)
+#### Mozilla Firefox
+Firefox Addons: [#](#)
+#### Microsoft Edge 
+Chrome Web Store (Supported by Edge!): [#](#)
+## Brave
+Chrome Web Store (Supported by Brave): [#](#)
+### license
 GNU General Public License v3.0
