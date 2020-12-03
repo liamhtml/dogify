@@ -1,4 +1,4 @@
-<img src="/src/img/dogify128.png" alt="Dogify icon" title="Help Dogify the web!" width="600" />
+<img src="/src/img/dogify128.png" alt="Dogify icon" title="Help Dogify the web!" width="300" />
 # Dogify
 Dogify is a browser extension which checks all of your sites for instances of the filthy word "cat" and replaces them with "dog". Help dogify the web!
 ## Installation and Use
