@@ -8,6 +8,9 @@
 
 //  Start Option #1: Replace instances of "cat" with "dog"
 
+// inline js isn't allowed by chrome, so I have to do this
+document.getElementById("option1").addEventListener("click", toggleOption1);
+
 function toggleOption1() {
 
   var option1 = document.getElementById("option1");
