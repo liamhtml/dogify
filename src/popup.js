@@ -17,10 +17,14 @@ function toggleOption1() {
 
   // if option1 is checked, dogify
   if (option1.checked === true) {
-    option1.style.margin = "40px";
-  // otherwise, de-dogify
+    chrome.tabs.executeScript({
+          file: 'dogify.js'
+        });
+  // otherwise, deDogify
   } else {
-    option1.style.margin = "20px";
+    chrome.tabs.executeScript({
+          file: 'deDogify.js'
+        });
     }
 }
 // End Option 1
