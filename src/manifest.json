@@ -13,6 +13,13 @@
       "persistent": false
     },
 
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["dogify.js"]
+      }
+    ],
+
    "permissions": ["declarativeContent", "storage", "activeTab"],
 
    "browser_action": {
