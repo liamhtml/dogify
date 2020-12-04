@@ -14,6 +14,6 @@ Chrome Web Store (Supported by Brave!): [#](#)
 ### Opera
 Chrome Webstore (Supported by Opera, I bet you're starting to see a pattern here!): [#](#)
 ### Note
-Unlisted browsers are unlikely to be supported, but some Chromium-based browsers can download extensions from the Chrome Web Store. If you are unsure, try it out!
+Unlisted browsers are unlikely to be supported, but some Chromium-based browsers can download extensions from the Chrome Web Store. If you are unsure whether this applies to you, try it out!
 ## License
 GNU General Public License v3.0
