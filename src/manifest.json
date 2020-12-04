@@ -4,14 +4,16 @@
 
   "name": "Dogify",
 
-  "description": "Help Dogify the web.",
+  "description": "Replaces all instances of the word \"cat\" with \"dog\". Help Dogify the web!",
 
   "version": "1.0",
 
    "background": {
-      "scripts": ["popup.js"],
+      "scripts": ["background.js"],
       "persistent": false
     },
+
+   "permissions": ["declarativeContent", "storage"],
 
    "page_action": {
       "default_popup": "popup.html",
@@ -21,6 +23,12 @@
         "48": "img/dogify48.png",
         "128": "img/dogify128.png"
       }
-    }
+    },
+    "icons": {
+        "16": "img/dogify16.png",
+        "32": "img/dogify32.png",
+        "48": "img/dogify48.png",
+        "128": "img/dogify128.png"
+      }
 
 }
