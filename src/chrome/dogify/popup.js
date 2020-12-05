@@ -33,5 +33,5 @@ function toggleOption1() {
     }
 }
 
-toggleOption1();
+
 // End Option 1

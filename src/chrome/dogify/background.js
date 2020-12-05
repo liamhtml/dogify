@@ -1,7 +1,8 @@
+
 chrome.runtime.onInstalled.addListener(function() {
-  chrome.storage.sync.set({color: '#3aa757'}, function() {
+  chrome.storage.sync.set({option1: '1'}, function() {
     console.log("DOGIFY INSTALLATION COMPLETE. DOGIFICATION SHALL NOW COMMENCE.");
   });
 
-   new chrome.declarativeContent.ShowPageAction()
-});
+     new chrome.declarativeContent.ShowPageAction()
+  });
