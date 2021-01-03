@@ -1,0 +1,36 @@
+{
+
+  "manifest_version": 2,
+
+  "name": "Dogify",
+
+  "description": "Replaces all instances of the word \"cat\" with \"dog\". Help Dogify the web!",
+
+  "version": "1.0",
+
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["dogify.js"]
+      }
+    ],
+
+   "permissions": ["activeTab"],
+
+   "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "img/dogify16.png",
+        "32": "img/dogify32.png",
+        "48": "img/dogify48.png",
+        "128": "img/dogify128.png"
+      }
+    },
+    "icons": {
+        "16": "img/dogify16.png",
+        "32": "img/dogify32.png",
+        "48": "img/dogify48.png",
+        "128": "img/dogify128.png"
+      }
+
+}
