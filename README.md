@@ -10,13 +10,13 @@ Browsers which currently aren't supported are:
  - Safari (No plans for support because the apple dev license costs **99 USD *yearly***)
 If your browser isn't supported, open an issue and I might add a version for it!
 ### Google Chrome
-Chrome Web Store: [#](#)
+[Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof)
 ### Microsoft Edge 
-Chrome Web Store (Supported by Edge!): [#](#)
+[Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof) (Supported by Edge!)
 ### Brave
-Chrome Web Store (Supported by Brave!): [#](#)
+[Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof) (Supported by Brave!)
 ### Opera
-Chrome Webstore (Supported by Opera, I bet you're starting to see a pattern here!): [#](#)
+[Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof) (Supported by Opera, I bet you're starting to see a pattern here!)
 ## Privacy Policy
 Dogify doesn't store any of your browsing data or site information. 
 ## License
