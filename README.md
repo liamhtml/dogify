@@ -6,7 +6,7 @@ Install for your browser at its respective marketplace. Once installed, make sur
 ## Support
 Dogify is supported by most Chromium-based browsers. A lot of these browsers can download extensions from the [Google Chrome Web Store](https://chrome.google.com/webstore/category/extensions), so check it out!
 Browsers which currently aren't supported are:
- - Mozilla Firefox (COMING SOON)
+ - Mozilla Firefox (submission pending)
  - Safari (No plans for support because the apple dev license costs **99 USD *yearly***)
 If your browser isn't supported, open an issue and I might add a version for it!
 ### Google Chrome
@@ -17,7 +17,7 @@ If your browser isn't supported, open an issue and I might add a version for it!
 [Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof) (Supported by Brave!)
 ### Opera
 [Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof) (Supported by Opera, I bet you're starting to see a pattern here!)
-- Note: I've submitted the extension for review on the [Opera Addon Store](https://addons.opera.com) too!
+- Note: [Opera Addon Store](https://addons.opera.com) pending!
 ## Privacy Policy
 Dogify doesn't store any of your browsing data or site information. 
 ## License
