@@ -17,6 +17,7 @@ If your browser isn't supported, open an issue and I might add a version for it!
 [Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof) (Supported by Brave!)
 ### Opera
 [Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof) (Supported by Opera, I bet you're starting to see a pattern here!)
+- Note: I've submitted the extension for review on the [Opera Addon Store](https://addons.opera.com) too!
 ## Privacy Policy
 Dogify doesn't store any of your browsing data or site information. 
 ## License
