@@ -21,9 +21,9 @@ If your browser isn't supported, open an issue and I might add a version for it!
 Note: [Opera Addon Store](https://addons.opera.com) pending!
 ## Share
 Spread the word about Dogify using these shortened urls;
-
+<br>
 **Dogify for Chrome** - [https://bit.ly/dogifychrome](https://bit.ly/dogifychrome)
-
+<br>
 **Dogify for Firefox** - [https://bit.ly/dogifyfirefox](https://bit.ly/dogifyfirefox)
 ## Privacy Policy
 Dogify doesn't store any of your browsing data or site information. 
