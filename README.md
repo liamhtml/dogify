@@ -19,6 +19,10 @@ If your browser isn't supported, open an issue and I might add a version for it!
 ### Opera
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof) (Supported by Opera, I bet you're starting to see a pattern here!)
 Note: [Opera Addon Store](https://addons.opera.com) pending!
+## Share
+Spread the word about Dogify using these shortened urls;
+**Dogify for Chrome** - [https://bit.ly/dogifychrome](https://bit.ly/dogifychrome)
+**Dogify for Firefox** - [https://bit.ly/dogifyfirefox](https://bit.ly/dogifyfirefox)
 ## Privacy Policy
 Dogify doesn't store any of your browsing data or site information. 
 ## License
