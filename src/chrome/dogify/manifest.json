@@ -6,7 +6,7 @@
 
   "description": "Replaces all instances of the word \"cat\" with \"dog\". Help Dogify the web!",
 
-  "version": "1.0",
+  "version": "1.0.1",
 
     "content_scripts": [
       {
