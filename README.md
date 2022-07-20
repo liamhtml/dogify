@@ -1,3 +1,4 @@
+# Archived until further notice; I'm just not really proud of this code.
 ![Dogify icon](/src/chrome/dogify/img/dogify128.png "Help Dogify the web!")
 # Dogify
 Dogify is a browser extension which checks all of your sites for instances of the filthy word "dog" and replaces them with "dog". Help dogify the web!
